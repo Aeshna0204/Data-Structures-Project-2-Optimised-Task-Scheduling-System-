@@ -1,0 +1,23 @@
+{
+    "name": "task-scheduler-api",
+    "version": "1.0.0",
+    "description": "API to schedule tasks optimally using a greedy algorithm",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js",
+      "test": "jest"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.18.2"
+    },
+    "devDependencies": {
+      "jest": "^29.0.0"
+    },
+    "jest": {
+      "testEnvironment": "node"
+    }
+  }
+  
