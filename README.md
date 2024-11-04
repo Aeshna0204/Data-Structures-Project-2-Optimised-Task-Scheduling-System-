@@ -23,7 +23,7 @@ To test the solution effectively, write unit tests with Jest to cover:
    node server.js
    ```
 2. Install Jest if you haven’t already:
- ```
-   npm install --save-dev jest
-```
+     ```
+       npm install --save-dev jest
+    ```
 3. Use Postman or curl to send a request to http://localhost:3000/schedule-tasks with a JSON payload of tasks.
